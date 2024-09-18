@@ -13,12 +13,14 @@ This project demonstrates a basic browser structure, including:
 
 I have several ideas to expand on this foundation:
 - _TODOS_
-# - Improved rendering engine
-# - Full CSS implementation
-# - JavaScript support
-# - Tab management
-# - Bookmarks and history
-#
+<?
+- Improved rendering engine
+- Full CSS implementation
+- JavaScript support
+- Tab management
+- Bookmarks and history
+?>
+
 This project serves as a starting point for a more robust browser implementation. I plan to revisit and enhance it when time allows.
 
 ## Acknowledgments
